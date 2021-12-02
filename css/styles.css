@@ -127,7 +127,7 @@ header p {
 }
 
 /* MEDIA QUERIES */
-@media only screen and (min-width: 1150px) {
+@media only screen and (min-width: 1240px) {
     /* HEADER */
     header {
         width: 600px;
