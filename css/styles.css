@@ -174,6 +174,7 @@ header p {
         grid-row: 2 / 3;
         justify-self: center;
         align-self: center;
+        margin-bottom: 80px;
     }
 
     .card-cyan {
